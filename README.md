@@ -21,7 +21,6 @@ Existe tambem um sistema de pontos para recompensar os usuarios que realizarem c
 Utilizando a geolocalização do usuario no momento da realização do check in, assim tendo uma confiabilidade e controle .
 
 
-
 ##### Como você consegue as informações sobre os voôs e das demais informações que são cadastradas no itinerario do usuario?
 
 Utilizando a API do [Aviationstack](https://aviationstack.com/documentation) para ter as informações dos voôs e utilizando a API
@@ -35,3 +34,7 @@ turisticos, etc.
  - JPA/Hibernate
  - React Native
  - PostgreSQL
+ 
+ 
+ #### Classificação no concurso
+<img src="/src/main/resources/static/imagem.jpeg"  width="450" height="450">
